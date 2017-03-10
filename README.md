@@ -2,7 +2,7 @@
 
 
 ##### prenono
-An application for couples.
+An application for couples using NLP.
 
 ##### makeme
 An electron desktop application for task management.
